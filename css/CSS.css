@@ -4,8 +4,16 @@ body{
     
 }
 div{
-    border:black solid 1px;
+    border:black solid 0.5px;
+    
 }
 .image{
     background:url("image/Пирамидка(1).svg");
+}
+.row{
+    color: blue;
+}
+.conteiner-fluid{
+    padding-left: 110px;
+    padding-right: 110px;
 }
