@@ -1,11 +1,9 @@
 
 body{
     background:url("../image/MainFon.png");
-    
 }
 div{
     border:black solid 0.5px;
-    
 }
 .image{
     background:url("image/Пирамидка(1).svg");
