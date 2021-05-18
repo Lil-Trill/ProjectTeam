@@ -15,3 +15,9 @@ div{
     padding-left: 110px;
     padding-right: 110px;
 }
+.bg_fon{
+    background:url("../image/back-fon.svg") no-repeat;
+    background-position: top 200px right;
+
+
+}
