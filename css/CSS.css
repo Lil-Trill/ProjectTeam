@@ -19,7 +19,15 @@ div{
     background:url("../image/back-fon.svg") no-repeat;
     background-position: top 190px right;
 }
+.head{
+    background: url("../image/unnamed123\ 1.png");
+    background-size: 100%;
+    background-position: top;
+}
 /* .line_first{
     background: url("../image/Прозрачная\ полоска\ .svg") repeat-x 100%, url("../image/верхняя\ полоска.svg") no-repeat;
     background-size: 100%;
 } */
+.second_page{
+    height: 1185px;
+}
