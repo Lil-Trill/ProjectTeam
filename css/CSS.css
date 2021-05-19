@@ -17,7 +17,9 @@ div{
 }
 .bg_fon{
     background:url("../image/back-fon.svg") no-repeat;
-    background-position: top 200px right;
-
-
+    background-position: top 190px right;
 }
+/* .line_first{
+    background: url("../image/Прозрачная\ полоска\ .svg") repeat-x 100%, url("../image/верхняя\ полоска.svg") no-repeat;
+    background-size: 100%;
+} */
